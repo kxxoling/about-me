@@ -1,0 +1,36 @@
+doctype html
+html(lang="en")
+  head
+    title About me!
+  body
+    - var resume = require('json!./resume.json')
+
+    header.header
+      .menu.grid
+        .menu_left.grid-cell
+          | About me
+        .menu_right.grid-cell
+          | Some icons
+
+    .container
+      .banner.card
+        .banner-down
+          .avatar
+            img(src="#{resume.basics.picture}")
+          h3.name= resume.basics.name
+
+      .grid.grid-gutter
+        .grid-cell
+          .card.work
+            | Work history
+        .grid-cell
+          .card.sites
+            | My sites
+
+      .grid.grid-gutter
+        .grid-cell
+          .card.contact
+            | Contact
+        .grid-cell
+          .card.edu
+            | Education

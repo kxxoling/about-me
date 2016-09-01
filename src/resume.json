@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Kane Blueriver",
+    "label": "Pythoneer/Fullstack Engineer",
+    "picture": "https://avatars0.githubusercontent.com/u/1227139",
+    "email": "kxxoling@gmail.com",
+    "phone": "",
+    "website": "http://blog.windrunner.info",
+    "summary": "Love coding, open source enthusiast.",
+    "location": {
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "kxxoling",
+        "url": "https://github.com/kxxoling"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "kxxoling",
+        "url": "http://stackoverflow.com/users/2836912/kxxoling"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bxzz",
+      "position": "Senior",
+      "website": "http://zhiyoujiaoyu.com/",
+      "startDate": "2015-10",
+      "endDate": "2016-6",
+      "summary": "A",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Breadtrip",
+      "position": "Senior Python Engineer",
+      "website": "http://web.breadtrip.com/",
+      "startDate": "2015-04",
+      "endDate": "2015-09",
+      "summary": "A",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "BISTU",
+      "area": "Beijing",
+      "studyType": "",
+      "startDate": "2008-09",
+      "endDate": "2012-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "FE",
+      "level": "master",
+      "keywords": [
+        "React.js",
+        "React-Redux",
+        "React-Saga",
+        "Vue.js",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "Python web engineer",
+      "level": "Master",
+      "keywords": [
+        "Django",
+        "Flask",
+        "Tornado",
+        "Mako",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "DynamoDB",
+        "Gunicorn",
+        "REST"
+      ]
+    },
+    {
+      "name": "SA",
+      "level": "",
+      "keywords": [
+        "Fabric",
+        "Docker",
+        "AWS",
+        "GitLab & CI"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "Reading & writing"
+    }
+  ],
+  "interests": [
+    {
+      "name": "None",
+      "keywords": [
+        "None"
+      ]
+    }
+  ]
+}
